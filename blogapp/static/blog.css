@@ -1,0 +1,45 @@
+.content{
+	width:60%;
+	float: left;
+	padding: 0 0 0 30px;
+	background:none;
+	height:100%; 
+}
+.sidebar{
+	width:40%;
+	float: right;
+	padding:0 0 0 10px;
+	background:none;
+	height:100%; 
+}
+h1{
+	text-align: center;
+	border-bottom:1px solid yellow;
+	padding-bottom:10px;
+}
+
+#date{
+	color: yellow;
+	font-size: 12px;
+	font-style: italic;
+}
+#ch{
+	color: pink;
+	font-size:15px;
+	font-style: italic;
+	border-bottom:3px dashed yellow;
+}
+#pcount{
+	font-size: 40px;
+	color: yellow;
+	font-weight: bold;	
+}
+#mithilesh{
+	font-size: 100px;
+}
+body {
+	background: url("https://www.zekardo.com/static/images_latest/banner-car.png");
+	background-repeat: no-repeat;
+	background-size: auto;
+}
+  
